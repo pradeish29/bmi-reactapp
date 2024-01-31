@@ -4,7 +4,7 @@ Click here to see the deployed page:
 
 https://pradeish29.github.io/bmi-reactapp/
 
-This project was bootstrapped with Create React App.
+This project was bootstrapped with Create React App
 
 ## Available Scripts
 In the project directory, you can run:
