@@ -6,6 +6,17 @@ https://pradeish29.github.io/bmi-reactapp/
 
 This project was bootstrapped with Create React App
 
+## Repography
+
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/48344853/pradeish29/bmi-reactapp/recent-activity/_0gWsMpbo4W9Se9gdny0_4oDTJTBcCIvUZbIzVa5-Ho/POfkZ2rohygvgy_txD37Y5tEJkrnPA-d2ESA66_lKew_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/48344853/pradeish29/bmi-reactapp/recent-activity/_0gWsMpbo4W9Se9gdny0_4oDTJTBcCIvUZbIzVa5-Ho/POfkZ2rohygvgy_txD37Y5tEJkrnPA-d2ESA66_lKew_timeline.svg)](https://github.com/pradeish29/bmi-reactapp/commits)
+[![Trending topics](https://images.repography.com/48344853/pradeish29/bmi-reactapp/recent-activity/_0gWsMpbo4W9Se9gdny0_4oDTJTBcCIvUZbIzVa5-Ho/POfkZ2rohygvgy_txD37Y5tEJkrnPA-d2ESA66_lKew_words.svg)](https://github.com/pradeish29/bmi-reactapp/commits)
+[![Top contributors](https://images.repography.com/48344853/pradeish29/bmi-reactapp/recent-activity/_0gWsMpbo4W9Se9gdny0_4oDTJTBcCIvUZbIzVa5-Ho/POfkZ2rohygvgy_txD37Y5tEJkrnPA-d2ESA66_lKew_users.svg)](https://github.com/pradeish29/bmi-reactapp/graphs/contributors)
+[![Activity map](https://images.repography.com/48344853/pradeish29/bmi-reactapp/recent-activity/_0gWsMpbo4W9Se9gdny0_4oDTJTBcCIvUZbIzVa5-Ho/POfkZ2rohygvgy_txD37Y5tEJkrnPA-d2ESA66_lKew_map.svg)](https://github.com/pradeish29/bmi-reactapp/commits)
+
+
+
 ## Available Scripts
 In the project directory, you can run:
 
